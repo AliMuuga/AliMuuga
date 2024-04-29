@@ -1,4 +1,4 @@
-## 🌐     Hi, I Ali a software Enginner:
+## 🌐     Hi, I am Ali a software Enginner:
 🔭 Self-taught full-stack Software Engineer and Web Developer<br/>
 🌱I might not have a degree just look at my portfolio showcasing hands-on experience<br/>
 💬I am really good at coming up with solutions to complex problems<br/>
