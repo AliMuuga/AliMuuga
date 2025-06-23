@@ -2,7 +2,7 @@
 🔭 Self-taught full-stack Software Engineer and Web Developer<br/>
 🌱I might not have a degree, look at my portfolio showcasing hands-on experience<br/>
 💬I am good at coming up with solutions to complex problems<br/>
-📫 alithareaper@gmail.com<br/>
+📫 alimuunganirwa@gmail.com<br/>
 😄Currently enrolled in a comprehensive course to earn a certificate as a Full Stack Software Engineer<br/>
 ⚡Fun fact about me is that I am a gamer with rizz<br/>
 
