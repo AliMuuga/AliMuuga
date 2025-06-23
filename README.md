@@ -1,14 +1,14 @@
-## 🌐     Hi, I am Ali a software Enginner:
+## 🌐     Hi, I am Ali, a software engineer:
 🔭 Self-taught full-stack Software Engineer and Web Developer<br/>
-🌱I might not have a degree just look at my portfolio showcasing hands-on experience<br/>
-💬I am really good at coming up with solutions to complex problems<br/>
+🌱I might not have a degree, look at my portfolio showcasing hands-on experience<br/>
+💬I am good at coming up with solutions to complex problems<br/>
 📫 alithareaper@gmail.com<br/>
 😄Currently enrolled in a comprehensive course to earn a certificate as a Full Stack Software Engineer<br/>
-⚡Fun fact about me is that i am a gamer with rizz<br/>
+⚡Fun fact about me is that I am a gamer with rizz<br/>
 
 Ali's GitHub stats(https://github.com/AliMuuga/github-re
 
-## 🌐 Socials:
+🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-muunganirwa-505a63207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
